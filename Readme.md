@@ -3,7 +3,6 @@
 #Result:
 
 
-
 Koramangala: Most of the Rating is from 4.1 to 4.3, with a maximum cost spent by most of the customers is between ₹150 to ₹380
 
 HSR Layout: Most of the Rating is from 4.0 to 4.5, with a maximum cost spent by most of the customers is between ₹350 to ₹400
